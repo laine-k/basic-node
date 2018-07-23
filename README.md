@@ -1,0 +1,1 @@
+# basic-node node setup
